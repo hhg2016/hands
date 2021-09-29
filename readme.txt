@@ -1,2 +1,2 @@
 hands gesture recognization
-123
+dataset is cunstomed by myself
